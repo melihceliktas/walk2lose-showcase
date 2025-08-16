@@ -19,6 +19,12 @@ It utilizes Google Maps API to select target locations and guides the user throu
 ## 📸 Screenshots
 ![Home Screen](MainScreen.jpg)
 ![Challenge Screen](ChallengeScreen.jpg)
+![Congrats_Screen](Congrats_Screen.jpg)
+![NotFinished_Screen](NotFinished_Screen.jpg)
+![Profile and Details](ProfileandDetails.jpg)
+![Edit_Profile](EditProfile.jpg)
+![LoginScreen](LoginScreen.jpg)
+![RegisterScreen](RegisterScreen.jpg)
 
 ## 👤 Developer
 Melih Çeliktaş  
